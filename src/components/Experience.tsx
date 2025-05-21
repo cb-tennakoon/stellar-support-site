@@ -15,10 +15,10 @@ const Experience = () => {
       company: "Tech Solutions Inc.",
       period: "2021 - Present",
       description: [
-        "Lead a team of 5 support engineers handling complex application issues",
-        "Implemented monitoring solutions that reduced system outages by 40%",
-        "Created knowledge base articles and automation scripts that improved response time by 35%",
-        "Coordinate with development teams to implement fixes and enhancements"
+        "Led incident management process, reducing critical incidents response time by 40%",
+        "Developed and implemented proactive system health monitoring solutions to prevent outages",
+        "Analyzed recurring incidents to implement permanent fixes and prevent future occurrences",
+        "Coordinated with development teams to implement system improvements and fix underlying issues"
       ]
     },
     {
@@ -26,10 +26,10 @@ const Experience = () => {
       company: "Global Systems Ltd.",
       period: "2018 - 2021",
       description: [
-        "Provided L2/L3 support for financial applications used by 5000+ users",
-        "Reduced ticket resolution time by 25% through process improvements",
-        "Implemented automated health checks for critical systems",
-        "Collaborated with vendors to resolve complex integration issues"
+        "Managed L2/L3 incidents for financial applications used by 5000+ users",
+        "Implemented automated system health checks that reduced unplanned outages by 30%",
+        "Created and maintained incident knowledge base, improving resolution time by 25%",
+        "Performed root cause analysis on critical incidents to prevent recurrence"
       ]
     },
     {
@@ -37,10 +37,10 @@ const Experience = () => {
       company: "DataCore Services",
       period: "2016 - 2018",
       description: [
-        "Provided hardware and software support for 200+ employees",
-        "Assisted in network configuration and maintenance",
-        "Created user guides and conducted training sessions",
-        "Managed IT inventory and procurement processes"
+        "Handled incident tickets and resolved user-reported technical issues",
+        "Set up basic monitoring tools to track system performance",
+        "Created documentation for common incident resolution procedures",
+        "Assisted in system maintenance and health check activities"
       ]
     }
   ];
@@ -52,8 +52,8 @@ const Experience = () => {
           <h2 className="text-3xl md:text-4xl font-bold mb-4 text-gradient">Work Experience</h2>
           <div className="h-[2px] w-24 bg-gradient-to-r from-purple-100 to-blue-accent mx-auto"></div>
           <p className="mt-6 text-gray-300 max-w-2xl mx-auto">
-            My professional journey as an Application Support Engineer, solving complex
-            technical challenges across different industries.
+            My professional journey focused on incident management, resolution, and system health monitoring 
+            across various technical environments.
           </p>
         </div>
         
