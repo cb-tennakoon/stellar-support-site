@@ -15,7 +15,7 @@ const Hero = () => {
       <div className="container max-w-5xl mx-auto text-center">
         <h2 className="text-gray-400 text-xl mb-3 animate-fade-in">Hello, I'm</h2>
         <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in text-gradient">
-          John Smith
+          Chathuranga Bandara
         </h1>
         <div className="h-[2px] w-24 bg-gradient-to-r from-purple-100 to-blue-accent mx-auto mb-6 animate-scale-in"></div>
         <h3 className="text-2xl md:text-3xl mb-8 animate-fade-in">

@@ -27,7 +27,7 @@ const Header = () => {
       }`}
     >
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-        <div className="text-2xl font-bold text-gradient">JSPortfolio</div>
+        <div className="text-2xl font-bold text-gradient">CBPortfolio</div>
         <nav className="hidden md:flex space-x-8">
           {["home", "about", "skills", "experience", "projects", "contact"].map((section) => (
             <Link

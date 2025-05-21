@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container mx-auto max-w-5xl">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <div className="text-2xl font-bold text-gradient mb-2">JSPortfolio</div>
+            <div className="text-2xl font-bold text-gradient mb-2">CBPortfolio</div>
             <p className="text-gray-400">Application Support Engineer</p>
           </div>
           
@@ -29,7 +29,7 @@ const Footer = () => {
               <Linkedin size={20} />
             </a>
             <a 
-              href="mailto:john.smith@example.com" 
+              href="mailto:chathuranga.bandara@example.com" 
               className="text-gray-400 hover:text-purple-100 transition-colors"
               aria-label="Email"
             >
@@ -42,7 +42,7 @@ const Footer = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm mb-4 md:mb-0">
-            &copy; {currentYear} John Smith. All rights reserved.
+            &copy; {currentYear} Chathuranga Bandara. All rights reserved.
           </p>
           
           <div className="flex gap-6">
